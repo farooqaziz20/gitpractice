@@ -1,1 +1,11 @@
 farooq
+
+
+<div class="form-group">
+  <label for=""></label>
+  <select class="form-control form-control-sm" name="" id="">
+    <option></option>
+    <option></option>
+    <option></option>
+  </select>
+</div>
